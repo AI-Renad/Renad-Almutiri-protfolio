@@ -3,27 +3,27 @@
     "templates/home.html": [
       {
         "id": "dfedde27-c50b-4baf-b083-e5661f52f076",
-        "line": 4,
-        "version": 148,
-        "index": 32
+        "line": 7,
+        "version": 671,
+        "index": 137
       },
       {
         "id": "6c2740d8-8943-46ed-b6db-7ddc18d803d3",
-        "line": 6,
-        "version": 148,
-        "index": 77
+        "line": 21,
+        "version": 671,
+        "index": 543
       },
       {
         "id": "7ea60432-1f0c-459f-ab03-19db349c2889",
-        "line": 8,
-        "version": 148,
-        "index": 114
+        "line": 24,
+        "version": 671,
+        "index": 627
       },
       {
         "id": "10793235-d576-463b-94df-05569e812e27",
-        "line": 10,
-        "version": 148,
-        "index": 231
+        "line": 26,
+        "version": 671,
+        "index": 810
       }
     ]
   }
