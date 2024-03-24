@@ -1,29 +1,37 @@
 {
   "files": {
+    "poetry.lock": [
+      {
+        "id": "66d25812-780a-4282-b2ae-fd15782a2295",
+        "line": 6,
+        "version": 1,
+        "index": 139
+      }
+    ],
     "templates/home.html": [
       {
         "id": "dfedde27-c50b-4baf-b083-e5661f52f076",
         "line": 7,
-        "version": 1133,
+        "version": 1137,
         "index": 137
       },
       {
         "id": "6c2740d8-8943-46ed-b6db-7ddc18d803d3",
         "line": 12,
-        "version": 1133,
-        "index": 437
+        "version": 1137,
+        "index": 258
       },
       {
         "id": "7ea60432-1f0c-459f-ab03-19db349c2889",
         "line": 14,
-        "version": 1133,
-        "index": 493
+        "version": 1137,
+        "index": 314
       },
       {
         "id": "10793235-d576-463b-94df-05569e812e27",
         "line": 16,
-        "version": 1133,
-        "index": 616
+        "version": 1137,
+        "index": 437
       }
     ],
     "templates/projectdetails.html": [
