@@ -11,41 +11,41 @@
     "templates/home.html": [
       {
         "id": "dfedde27-c50b-4baf-b083-e5661f52f076",
-        "line": 7,
-        "version": 1137,
-        "index": 137
+        "line": 5,
+        "version": 1150,
+        "index": 41
       },
       {
         "id": "6c2740d8-8943-46ed-b6db-7ddc18d803d3",
-        "line": 12,
-        "version": 1137,
-        "index": 258
+        "line": 10,
+        "version": 1150,
+        "index": 161
       },
       {
         "id": "7ea60432-1f0c-459f-ab03-19db349c2889",
-        "line": 14,
-        "version": 1137,
-        "index": 314
+        "line": 12,
+        "version": 1150,
+        "index": 217
       },
       {
         "id": "10793235-d576-463b-94df-05569e812e27",
-        "line": 16,
-        "version": 1137,
-        "index": 437
+        "line": 15,
+        "version": 1150,
+        "index": 345
       }
     ],
     "templates/projectdetails.html": [
       {
         "id": "12d992fd-5f17-436a-8b53-32b732785aed",
         "line": 6,
-        "version": 147,
-        "index": 111
+        "version": 148,
+        "index": 113
       },
       {
         "id": "3c7b1c6d-9945-4d07-9ea5-a8b2d31a641b",
         "line": 9,
-        "version": 147,
-        "index": 162
+        "version": 148,
+        "index": 164
       }
     ]
   }
